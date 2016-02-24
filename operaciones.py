@@ -17,3 +17,4 @@ def cuadrado(x):
 def cubo(x):
     return x**3
     
+    # Master
