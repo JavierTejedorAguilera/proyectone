@@ -11,4 +11,6 @@ def resta(x,y): return x-y
 def multiplicacion(x,y): return x*y
 def division(x,y): return x/y
 
+def cuadrado(x):
+    return x**2
 
