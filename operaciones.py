@@ -14,3 +14,6 @@ def division(x,y): return x/y
 def cuadrado(x):
     return x**2
 
+def cubo(x):
+    return x**3
+    
